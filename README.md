@@ -17,8 +17,20 @@ Welcome to my corner of the digital world! I am a passionate developer with a kn
 - **Flutter** for cross-platform mobile app excellence.
 - **Advanced Node.js** development for robust backend systems.
 - Payment gateway integrations like **Razorpay**.
-- Scaling applications with **microservices** and **serverless architecture**.
+- Social login integrations like **Google Auth**.
+- Deploy projects i **Razorpay**.
 
+---
+
+### 🚀 **Deployments**
+- 📱 **Mobile Apps:** 
+  - [Uracca App](https://play.google.com/store/apps/details?id=com.uracca) (Available on Play Store)
+- 🌐 **Web Hosting:**
+  - Hosted on [Hostinger](https://www.uracca.com/) with a custom domain.
+- ☁️ **Cloud Deployments:**
+  - Experience with deploying backend systems on **DigitalOcean** and other VPS platforms.
+  - Deployed using **Cloud Panel** for seamless management.
+  - 
 ---
 
 ### 📫 **How to Reach Me**
@@ -43,7 +55,7 @@ I'm a lifelong learner who believes in the power of collaboration. When I’m no
 - **Languages:** JavaScript, Dart
 - **Backend:** Node.js, Express.js, Firebase
 - **Database:** MongoDB, Firebase
-- **Tools & Platforms:** Git, VS Code
+- **Tools & Platforms:** Git, Github, VS Code
 - **Others:** Payment Gateway Integration (Razorpay), Google Auth, Firebase, REST APIs
 
 ---
