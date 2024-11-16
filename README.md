@@ -24,9 +24,9 @@ Welcome to my corner of the digital world! I am a passionate developer with a kn
 
 ### 🚀 **Deployments**
 - 📱 **Mobile Apps:** 
-  - [Uracca App](https://play.google.com/store/apps/details?id=com.uracca) (Available on Play Store)
+  - [Mobile Apps](https://play.google.com/store/apps/dev?id=5292224223189749609) (Available on Play Store)
 - 🌐 **Web Hosting:**
-  - Hosted on [Hostinger](https://www.uracca.com/) with a custom domain.
+  - Hosted on [Websites](https://www.hostinger.com/) on [Hostinger](https://www.uracca.com/) and [Tasjeel](https://www.ebmc.ae/).
 - ☁️ **Cloud Deployments:**
   - Experience with deploying backend systems on **DigitalOcean** and other VPS platforms.
   - Deployed using **Cloud Panel** for seamless management.
