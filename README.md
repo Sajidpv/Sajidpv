@@ -26,11 +26,11 @@ Welcome to my corner of the digital world! I am a passionate developer with a kn
 - 📱 **Mobile Apps:** 
   - [Mobile Apps](https://play.google.com/store/apps/dev?id=5292224223189749609) (Available on Play Store)
 - 🌐 **Web Hosting:**
-  - Hosted on [Websites](https://www.hostinger.com/) on [Hostinger](https://www.uracca.com/) and [Tasjeel](https://www.ebmc.ae/).
+  - Hosted Multiple websites.
 - ☁️ **Cloud Deployments:**
-  - Experience with deploying backend systems on **DigitalOcean** and other VPS platforms.
+  - Experience with deploying backend systems on **DigitalOcean**, **Hostinger** and other VPS platforms.
   - Deployed using **Cloud Panel** for seamless management.
-  - 
+  
 ---
 
 ### 📫 **How to Reach Me**
