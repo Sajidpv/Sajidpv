@@ -18,7 +18,7 @@ Welcome to my corner of the digital world! I am a passionate developer with a kn
 - **Advanced Node.js** development for robust backend systems.
 - Payment gateway integrations like **Razorpay**.
 - Social login integrations like **Google Auth**.
-- Deploy projects i **Razorpay**.
+- Deploy projects in servers **Digital Ocean**, **Hostinger**, **Play Store**.
 
 ---
 
