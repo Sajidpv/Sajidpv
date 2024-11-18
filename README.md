@@ -15,6 +15,7 @@ Welcome to my corner of the digital world! I am a passionate developer with a kn
 
 ### 🌱 **Currently Learning**
 - **Flutter** for cross-platform mobile app excellence.
+- Exploring REST API.
 - **Advanced Node.js** development for robust backend systems.
 - Payment gateway integrations like **Razorpay**.
 - Social login integrations like **Google Auth**.
