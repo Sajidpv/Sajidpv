@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Sajid PV! 
 
-**`Developer | Learner | Innovator`**
+**`Flutter Developer | Learner | Innovator`**
 
-Welcome to my corner of the digital world! I am a passionate developer with a knack for building efficient, scalable solutions. Whether it's creating feature-rich applications or diving into the depths of programming languages, I’m always looking to improve and grow. 🚀
+Welcome to my corner of the digital world! I am a passionate flutter full-stack developer with a knack for building efficient, scalable solutions. Whether it's creating feature-rich applications or diving into the depths of programming languages, I’m always looking to improve and grow. 🚀
 
 ---
 
 ### 👀 **What I'm Interested In**
-- Crafting intuitive **Mobile applications** and engaging **Web server**.
+- Crafting intuitive **Flutter Mobile applications** and engaging **Web server**.
 - Exploring **backend technologies** like Node.js and databases like MongoDB.
 - Building solutions for **e-commerce** and **B2B platforms**.
 
@@ -20,6 +20,13 @@ Welcome to my corner of the digital world! I am a passionate developer with a kn
 - Payment gateway integrations like **Razorpay**.
 - Social login integrations like **Google Auth**.
 - Deploy projects in servers **Digital Ocean**, **Hostinger**, **Play Store**.
+
+---
+
+### 📈 GitHub Stats
+[![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidpv&count_private=true&theme=cobalt&show_icons=true)](https://github.com/sajidpv/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidpv&layout=compact&langs_count=7&theme=cobalt)](https://github.com/sajidpv/github-readme-stats)
 
 ---
 
