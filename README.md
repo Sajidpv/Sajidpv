@@ -23,12 +23,10 @@ Welcome to my corner of the digital world! I am a passionate flutter full-stack 
 
 ---
 
-### 📈 GitHub Stats
-[![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidpv&count_private=true&theme=cobalt&show_icons=true)](https://github.com/sajidpv/github-readme-stats)
+### 📈 GitHub Stats  
+| ![Sajid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidpv&count_private=true&theme=cobalt&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidpv&layout=compact&langs_count=7&theme=cobalt) |
+|---|---|
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidpv&layout=compact&langs_count=7&theme=cobalt)](https://github.com/sajidpv/github-readme-stats)
-
----
 
 ### 🚀 **Deployments**
 - 📱 **Mobile Apps:** 
