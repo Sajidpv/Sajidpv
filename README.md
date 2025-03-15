@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sajid PV! 
 
-**`Flutter Developer | Learner | Innovator`**
+**`Flutter Developer | Full-stack Developer | Node.js Developer | Learner | Innovator`**
 
 Welcome to my corner of the digital world! I am a passionate flutter full-stack developer with a knack for building efficient, scalable solutions. Whether it's creating feature-rich applications or diving into the depths of programming languages, I’m always looking to improve and grow. 🚀
 
